@@ -1,1 +1,3 @@
 labels/
+git rm labels.txt
+git commit -m "remove labels.txt"
